@@ -1,0 +1,4 @@
+/src/__pycache__
+/flatpak-app
+/.venv
+/.flatpak-builder
